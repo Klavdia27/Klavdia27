@@ -1,6 +1,5 @@
 ### Hi there 👋
-https://github.com/Klavdia27/Klavdia27/blob/main/README.md
-<!--
+https://www.codewars.com/users/Klavdia27/badges/micro<!--
 **Klavdia27/Klavdia27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
